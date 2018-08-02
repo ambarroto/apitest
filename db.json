@@ -1,0 +1,45 @@
+{
+	"posts": [
+		{
+		"id": 1,
+		"title": "Duobam",
+		"category": "Public Utilities"
+		}, {
+		"id": 2,
+		"title": "Sonsing",
+		"category": "Consumer Services"
+		}, {
+		"id": 3,
+		"title": "Regrant",
+		"category": "n/a"
+		}, {
+		"id": 4,
+		"title": "Alphazap",
+		"category": "Miscellaneous"
+		}, {
+		"id": 5,
+		"title": "Daltfresh",
+		"category": "Basic Industries"
+		}, {
+		"id": 6,
+		"title": "Home Ing",
+		"category": "Finance"
+		}, {
+		"id": 7,
+		"title": "Zamit",
+		"category": "Finance"
+		}, {
+		"id": 8,
+		"title": "Bytecard",
+		"category": "Energy"
+		}, {
+		"id": 9,
+		"title": "Zathin",
+		"category": "Health Care"
+		}, {
+		"id": 10,
+		"title": "Fintone",
+		"category": "Health Care"
+		}
+	]
+}
